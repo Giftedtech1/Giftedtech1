@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giftedtech1
-- 👀 I’m interested in GiftedtechTv 📺 
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in front-end development 
+- 🌱 I’m currently learning Javascript and react 
 - 📫 How to reach me ...click on the link to message me on Whatsapp Wa.me/2349059464257
 
 <!---
